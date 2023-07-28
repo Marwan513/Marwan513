@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marwan513?tab=repositories](https://github.com/Marwan513?tab=repositories)
 
-- 📫 How to reach me **graduated from the Faculty of Computing and Artificial Intelligence, Cairo University, Department of Artificial Intelligence, with a very good grade**
+- 📫 How to reach me **m.abdelmonem513@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pOND5cOj2d1sUE6T2uxvLehsl_jP-4Ob/view?usp=sharing](https://drive.google.com/file/d/1pOND5cOj2d1sUE6T2uxvLehsl_jP-4Ob/view?usp=sharing)
 
