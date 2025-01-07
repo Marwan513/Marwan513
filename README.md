@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **pytorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Marwan513?tab=repositories](https://github.com/Marwan513?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/Marwan513](https://github.com/Marwan513?tab=repositories)
 
 - 📫 How to reach me **m.abdelmonem513@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pOND5cOj2d1sUE6T2uxvLehsl_jP-4Ob/view?usp=sharing](https://drive.google.com/file/d/1pOND5cOj2d1sUE6T2uxvLehsl_jP-4Ob/view?usp=sharing)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1CD2CvtC3sYXiVdTNrBIDcAZVjzmxNokK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
