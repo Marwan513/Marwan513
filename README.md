@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marwan Mohamed</h1>
-<h3 align="center">graduated from the Faculty of Computing and Artificial Intelligence, Cairo University, Department of Artificial Intelligence, with a very good grade</h3>
+<h3 align="center">Graduating
+with excellent grades from the Faculty of Computers and Artificial Intelligence, Cairo University, I specialized
+in Artificial Intelligence and am now pursuing a Master’s degree in Information Systems to enhance my
+expertise in technology integration and systems management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan513&label=Profile%20views&color=fcba03&style=plastic" alt="marwan513" /> </p>
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 I’m currently learning **LLM**
 
 - 👨‍💻 All of my projects are available at [github.com/Marwan513](https://github.com/Marwan513?tab=repositories)
 
