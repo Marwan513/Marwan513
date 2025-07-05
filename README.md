@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marwan Mohamed</h1>
-<h3 align="center">Graduating
+<h3 align="center">a passionate and ambitious Artificial Intelligence Specialist with a strong academic foundation and
+hands-on experience in cutting-edge AI technologies, data science, and systems management. Graduating
 with excellent grades from the Faculty of Computers and Artificial Intelligence, Cairo University, I specialized
 in Artificial Intelligence and am now pursuing a Master’s degree in Information Systems to enhance my
 expertise in technology integration and systems management.</h3>
